@@ -11,7 +11,7 @@ My motivation was to finish an unfinished project. I build this project to use m
 - Uuid
 
 ## Usage
-Deployed link: https://tjbush-123.github.io/Note-Taker/ 
+Deployed link: https://note-taker-7jtq.onrender.com/  
 ![Note Taker](/public/assets/images/image.png)
 
 ## License
